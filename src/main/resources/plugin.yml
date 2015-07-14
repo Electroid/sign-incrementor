@@ -1,0 +1,9 @@
+name: SignIncrementor
+version: 0.1
+main: me.electroid.incrementor.SignIncrementor
+author: ElectroidFilms
+description: A plugin to set-up lobby signs.
+commands:
+   sign:
+      description: Set-up lobby signs (use '%' as number variable)
+      usage: /sign <copy|paste|clear>
