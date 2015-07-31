@@ -18,6 +18,13 @@
             <version>1.8-R0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
+    
+    <repositories>
+        <repository>
+            <id>overcast</id>
+            <url>https://repo.oc.tc/content/repositories/public</url>
+        </repository>
+    </repositories>
 
     <build>
         <plugins>
